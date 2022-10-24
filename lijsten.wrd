@@ -1,0 +1,23 @@
+woordenlijsten:
+nl-en[
+programma=program
+touw=string
+school=school
+vlieger=kite
+koe=cow
+]
+en-nl[
+baquette magique=toverstok
+ecole=school
+bike=fiets
+program=programma
+string=touw
+school=school
+kite=vlieger
+cow=koe
+]
+
+fr-ne[
+IGNORE=IGNORE
+]
+
